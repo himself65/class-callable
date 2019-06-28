@@ -1,0 +1,18 @@
+{
+  "name": "class-callable",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "yarn jest -i"
+  },
+  "author": {
+    "email": "himself65@outlook.com",
+    "name": "himself65"
+  },
+  "devDependencies": {
+    "@types/jest": "^24.0.15",
+    "@types/node": "^12.0.10",
+    "jest": "^24.8.0"
+  }
+}
