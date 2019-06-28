@@ -1,5 +1,9 @@
 function CallableInstance (property = '__call__') {
-  const func = this.constructor.prototype[property]
+  let func
+  if (typeof property === 'function')
+    func = property
+  else
+    func = this.constructor.prototype[property]
   const apply = function () {
     return func.apply(apply, arguments)
   }
