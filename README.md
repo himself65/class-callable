@@ -3,7 +3,7 @@
 > make class callable
 
 [![npm version](https://badge.fury.io/js/class-callable.svg)](https://badge.fury.io/js/class-callable)
-[![Build Status](https://www.travis-ci.com/Himself65/callable-class.svg?branch=master)](https://www.travis-ci.com/Himself65/callable-class)
+[![Build Status](https://www.travis-ci.com/Himself65/callable-class.svg?branch=master)](https://www.travis-ci.com/Himself65/class-callable)
 
 ## USAGE
 
